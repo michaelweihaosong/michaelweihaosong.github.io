@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Conference Publications
 
-{% include base_path %}
+### 2022
+GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3534678.3539346) [\[Code\]](https://github.com/weihaosong/GUIDE) [\[Slides\]](http://weihaosong.github.io/files/GUIDE_KDD_2022_Presentation.pdf)<br>
+**Weihao Song**, Yushun Dong, Ninghao Liu, Jundong Li <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### 2020
+JNET: Learning User Representations via Joint Network Embedding and Topic Embedding [\[PDF\]](https://dl.acm.org/doi/10.1145/3336191.3371770) [\[Code\]](https://github.com/Linda-sunshine/JNET) [\[Slides\]](https://weihaosong.github.io//publications/)<br>
+Lin Gong, Lu Lin, **Weihao Song**, Hongning Wang <br>
+ACM International Conference on Web Search and Data Mining (**WSDM 2020**).

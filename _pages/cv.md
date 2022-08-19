@@ -11,23 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Computer Science and Mathematics (Probability & Statistics), University of Virginia, 2019
+* M.S. in Computer Science, Columbia University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-: ML Quantitative Researcher Associate
+  * JPMorgan Asset Management
+  * Mid-frequency quantitative equity research with machine learning and deep learning
+  * New York, NY
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2022: Quantitative Researcher Analyst
+  * JPMorgan Asset Management
+  * New York, NY
+
+* Summer 2017: Quantitative Analyst
+  * University of Virginia Investment Management Company
+  * Charlottesville, VA
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
