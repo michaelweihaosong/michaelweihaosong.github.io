@@ -25,7 +25,7 @@ Work experience
   * JPMorgan Asset Management
   * New York, NY
 
-* Summer 2017: Quantitative Analyst
+* Summer 2017: Quantitative Analyst Intern
   * University of Virginia Investment Management Company
   * Charlottesville, VA
   
