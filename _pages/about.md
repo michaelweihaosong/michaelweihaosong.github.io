@@ -23,7 +23,7 @@ Academic Services
 * IEEE Bigdata 2022
 
 Work experience
-======
+------
 * 2022-: Machine Learning Quantitative Researcher Associate
   * JPMorgan Asset Management
   * New York, NY
