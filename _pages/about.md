@@ -18,7 +18,7 @@ Academic Services
 ------
 * **Invited Reviewer & External Reviewer**:
 * WSDM 2023
-* NeurIPS 2022 Meta-learning Workshop
+* NeurIPS Meta-learning Workshop 2022
 * Learning on Graphs (LoG) 2022
 * IEEE Bigdata 2022
 
