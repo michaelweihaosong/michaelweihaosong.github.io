@@ -22,7 +22,7 @@ Academic Services
   * Learning on Graphs (LoG) 2022
   * IEEE Bigdata 2022
 
-Work experiences
+Work Experiences
 ------
 * 2022-: Machine Learning Quantitative Researcher Associate
   * JPMorgan Asset Management
