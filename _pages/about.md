@@ -17,12 +17,12 @@ My research focus is primarily on graph machine learning. Specifically, I am int
 Academic Services
 ------
 * **Invited Reviewer & External Reviewer**:
-* WSDM 2023
-* NeurIPS Meta-learning Workshop 2022
-* Learning on Graphs (LoG) 2022
-* IEEE Bigdata 2022
+  * WSDM 2023
+  * NeurIPS Meta-learning Workshop 2022
+  * Learning on Graphs (LoG) 2022
+  * IEEE Bigdata 2022
 
-Work experience
+Work experiences
 ------
 * 2022-: Machine Learning Quantitative Researcher Associate
   * JPMorgan Asset Management
