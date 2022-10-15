@@ -13,3 +13,25 @@ I am currently a ML quantitative researcher at JPMorgan Asset Management and a p
 Research Interests
 ---
 My research focus is primarily on graph machine learning. Specifically, I am interested in **fair and robust graph learning, dynamic graph learning, and few shot learning on graphs**.
+
+Academic Services
+------
+* **Invited Reviewer & External Reviewer**:
+* WSDM 2023
+* NeurIPS 2022 Meta-learning Workshop
+* Learning on Graphs (LoG) 2022
+* IEEE Bigdata 2022
+
+Work experience
+======
+* 2022-: Machine Learning Quantitative Researcher Associate
+  * JPMorgan Asset Management
+  * New York, NY
+
+* 2019-2022: Quantitative Researcher Analyst
+  * JPMorgan Asset Management
+  * New York, NY
+
+* Summer 2017: Quantitative Analyst Intern
+  * University of Virginia Investment Management Company
+  * Charlottesville, VA
