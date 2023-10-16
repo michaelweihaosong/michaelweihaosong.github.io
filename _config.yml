@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weihao Song's Homepage"
 title_separator          : "-"
 name                     : &name "Weihao Song"
-description              : &description "Quantitative Researcher @JPM/Part-time Master's student @Columbia"
+description              : &description "Quantitative Researcher @JPM" #/Part-time Master's student @Columbia"
 url                      : https://weihaosong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weihaosong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weihao Song"
   avatar           : "headshot.png"
-  bio              : "Quantitative Researcher@JPM/Part-time MSCS student@Columbia"
+  bio              : "Quantitative Researcher@JPM" #/Part-time MSCS student@Columbia"
   location         : "New York, NY"
   employer         :
   pubmed           :

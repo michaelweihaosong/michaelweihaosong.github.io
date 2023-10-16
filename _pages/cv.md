@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Columbia University, 2022-2024 (expected)
+<!--* M.S. in Computer Science, Columbia University, 2022-2024 (expected) -->
 * B.A. in Computer Science and Mathematics (Probability & Statistics), University of Virginia, 2015-2019
 
 Work experience
 ======
-* 2022-: ML Quantitative Researcher Associate
+* 2022-: Quantitative Researcher Associate
   * JPMorgan Asset Management
-  * Mid-frequency quantitative equity research with machine learning and deep learning
+  * Mid-frequency quantitative equity research
   * New York, NY
 
 * 2019-2022: Quantitative Researcher Analyst
