@@ -14,7 +14,7 @@ I am currently a quantitative researcher at JPMorgan Asset Management. I am fort
 Research Interests
 ---
 <!--My research focus is primarily on graph machine learning. Specifically, I am interested in **fair and robust graph learning, dynamic graph learning, and few shot learning on graphs**.-->
-My research focus is primarily on fianncial forecasting.
+My research focus is primarily on financial forecasting.
 
 Academic Services
 ------
