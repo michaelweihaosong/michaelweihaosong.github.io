@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-<!--* M.S. in Computer Science, Columbia University, 2022-2024 (expected) -->
-* B.A. in Computer Science and Mathematics (Probability & Statistics), University of Virginia, 2015-2019
+* M.S. in Computer Science, Columbia University, 2022-2024
+* B.A. in Computer Science and Mathematics, University of Virginia, 2015-2019
 
 Work experience
 ======
