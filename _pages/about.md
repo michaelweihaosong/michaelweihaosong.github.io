@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a quantitative researcher at JPMorgan Asset Management and a part-time Master's student in the Computer Science department at [Columbia University](https://www.engineering.columbia.edu/). I enjoy learning and conducting research during my free time. I am fortunate to have been mentored by [Prof. Jundong Li](https://jundongli.github.io/). Prior to my current position, I obtained my bachelor's from [University of Virginia](https://www.virginia.edu/) (UVa), where I worked with [Prof. Hongning Wang](https://scholar.google.com/citations?user=qkdvKNoAAAAJ&hl=en).
+I am currently a quantitative researcher at JPMorgan Asset Management. I enjoy learning and conducting research during my free time. I am fortunate to have been mentored by [Prof. Jundong Li](https://jundongli.github.io/). Prior to my current position, I obtained my bachelor's from [University of Virginia](https://www.virginia.edu/) (UVa), where I worked with [Prof. Hongning Wang](https://scholar.google.com/citations?user=qkdvKNoAAAAJ&hl=en).
 
 <!--I am currently a quantitative researcher at JPMorgan Asset Management. I am fortunate to have been mentored by [Prof. Jundong Li](http://www.ece.virginia.edu/~jl6qk/). Prior to my current position, I obtained my bachelor's from [University of Virginia](https://www.virginia.edu/) (UVa), where I worked with [Prof. Hongning Wang](https://www.cs.virginia.edu/~hw5x/).-->
 
 Research Interests
 ---
-My research focus is primarily on financial application of machine learning algorithms in natural langauge processing and graph machine learning. Specifically, I am interested in **continual learning, few shot learning, dynamic graph learning, and robustness**.
+My research focus is primarily on financial application of machine learning algorithms in natural langauge processing. Specifically, I am interested in **continual learning, few shot learning, dynamic graph learning, and robustness.**.
 <!--My research focus is primarily on financial forecasting.-->
 
 Academic Services
@@ -29,11 +29,7 @@ Academic Services
 
 Work experiences
 ------
-* 2022-:  Quantitative Researcher Associate
-  * JPMorgan Asset Management
-  * New York, NY
-
-* 2019-2022: Quantitative Researcher Analyst
+* 2019-Now:  Quantitative Researcher
   * JPMorgan Asset Management
   * New York, NY
 

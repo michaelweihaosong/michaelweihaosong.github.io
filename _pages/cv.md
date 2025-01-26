@@ -16,12 +16,7 @@ Education
 
 Work experience
 ======
-* 2022-: Quantitative Researcher Associate
-  * JPMorgan Asset Management
-  * Mid-frequency quantitative equity research
-  * New York, NY
-
-* 2019-2022: Quantitative Researcher Analyst
+* 2019-Now: Quantitative Researcher
   * JPMorgan Asset Management
   * New York, NY
 
