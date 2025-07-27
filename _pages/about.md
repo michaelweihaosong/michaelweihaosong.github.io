@@ -14,7 +14,7 @@ I am currently a quantitative researcher at JPMorgan Asset Management. I enjoy l
 
 Research Interests
 ---
-My research focus is primarily on financial application of machine learning algorithms in natural langauge processing. Specifically, I am interested in **continual learning, few shot learning, dynamic graph learning, and robustness.**.
+My research focus is primarily on financial application of machine learning algorithms in natural langauge processing and more recently multimodal LLMs. Specifically, I am interested in **continual learning, few shot learning, and explainable algorithms**.
 <!--My research focus is primarily on financial forecasting.-->
 
 Academic Services
