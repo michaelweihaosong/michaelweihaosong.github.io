@@ -16,7 +16,11 @@ Education
 
 Work experience
 ======
-* 2019-Now: Quantitative Researcher
+* 2026-present: Quantitative Researcher
+  * Point72 Asset Management
+  * New York, NY
+  
+* 2019-2026: Quantitative Researcher
   * JPMorgan Asset Management
   * New York, NY
 
