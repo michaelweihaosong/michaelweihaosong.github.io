@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Weihao Song's Homepage"
 title_separator          : "-"
 name                     : &name "Michael Weihao Song"
-description              : &description "Quantitative Researcher @ Point72"
+description              : &description "Michael Weihao Song is a quantitative researcher at Point72 working on machine learning, natural language processing, multimodal LLMs, and graph learning."
 url                      : https://michaelweihaosong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaelweihaosong.github.io"
@@ -62,13 +62,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "headshot.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Michael Weihao Song
+  links:
+    - https://github.com/michaelweihaosong
+    - https://www.linkedin.com/in/michael-weihao-song-1bb0b1101/
+    - https://scholar.google.com/citations?user=kphLqtAAAAAJ&hl=en
 
 
 # Analytics
@@ -89,7 +92,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=kphLqtAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://michaelweihaosong.github.io"
   bitbucket        :
   codepen          :
   dribbble         :

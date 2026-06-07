@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
+excerpt: "Michael Weihao Song — Quantitative Researcher at Point72 focused on machine learning, NLP, multimodal LLMs, and graph learning."
 author_profile: true
 redirect_from: 
   - /about/
